@@ -1,0 +1,2 @@
+# burp_Unicode_or_HTML_Decoder
+burp插件支持自动解码html、unicode
